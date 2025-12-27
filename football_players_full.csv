@@ -1,0 +1,361 @@
+Name,BirthYear,Country,Position,Difficulty,CareerPath
+Lionel Messi,1987,Argentina,Forward,Easy,Barcelona → Paris SG → Inter Miami
+Cristiano Ronaldo,1985,Portugal,Forward,Easy,Manchester United → Real Madrid → Juventus → Manchester United → Al Nassr
+Neymar Jr.,1992,Brazil,Forward,Easy,Santos → Barcelona → Paris SG → Al Hilal
+Kylian Mbappé,1998,France,Forward,Easy,AS Monaco → Paris Saint-Germain → Real Madrid
+Robert Lewandowski,1988,Poland,Striker,Easy,Borussia Dortmund → Bayern Munich → Barcelona
+Kevin De Bruyne,1991,Belgium,Midfielder,Easy,Chelsea → Wolfsburg → Manchester City
+Mohamed Salah,1992,Egypt,Winger,Easy,Chelsea → Fiorentina → Roma → Liverpool
+Karim Benzema,1987,France,Striker,Easy,Lyon → Real Madrid → Al Ittihad
+Harry Kane,1993,England,Striker,Easy,Tottenham → Bayern Munich
+Luka Modrić,1985,Croatia,Midfielder,Easy,Tottenham → Real Madrid
+Erling Haaland,2000,Norway,Striker,Easy,Molde → RB Salzburg → Borussia Dortmund → Manchester City
+Virgil van Dijk,1991,Netherlands,Defender,Easy,Celtic → Southampton → Liverpool
+Alisson Becker,1992,Brazil,Goalkeeper,Easy,Roma → Liverpool
+Thibaut Courtois,1992,Belgium,Goalkeeper,Easy,Atlético Madrid → Chelsea → Real Madrid
+Toni Kroos,1990,Germany,Midfielder,Easy,Bayern Munich → Real Madrid
+Joshua Kimmich,1995,Germany,Midfielder,Medium,Leipzig → Bayern Munich
+Marquinhos,1994,Brazil,Defender,Medium,Roma → Paris SG
+Bernardo Silva,1994,Portugal,Midfielder,Medium,Monaco → Manchester City
+Sadio Mané,1992,Senegal,Forward,Medium,Southampton → Liverpool → Bayern Munich → Al Nassr
+Heung-min Son,1992,South Korea,Forward,Medium,Bayer Leverkusen → Tottenham
+Bruno Fernandes,1994,Portugal,Midfielder,Medium,Sporting CP → Manchester United
+Frenkie de Jong,1997,Netherlands,Midfielder,Medium,Ajax → Barcelona
+Lautaro Martínez,1997,Argentina,Striker,Medium,Racing Club → Inter Milan
+Julián Álvarez,2000,Argentina,Striker,Medium,River Plate → Manchester City
+Darwin Núñez,1999,Uruguay,Striker,Medium,Benfica → Liverpool
+Christopher Nkunku,1997,France,Forward,Medium,Paris SG → RB Leipzig → Chelsea
+Rúben Dias,1997,Portugal,Defender,Medium,Benfica → Manchester City
+Vinícius Júnior,2000,Brazil,Winger,Easy,Flamengo → Real Madrid
+Rodrygo,2001,Brazil,Winger,Easy,Santos → Real Madrid
+Pedri,2002,Spain,Midfielder,Easy,Las Palmas → Barcelona
+Jude Bellingham,2003,England,Midfielder,Easy,Birmingham City → Borussia Dortmund → Real Madrid
+Bukayo Saka,2001,England,Winger,Easy,Arsenal
+Phil Foden,2000,England,Midfielder,Easy,Manchester City
+Jamal Musiala,2003,Germany,Midfielder,Easy,Chelsea academy → Bayern Munich
+Khvicha Kvaratskhelia,2001,Georgia,Winger,Easy,Dinamo Tbilisi → Rubin Kazan → Napoli
+Victor Osimhen,1998,Nigeria,Striker,Easy,Wolfsburg → Charleroi → Lille → Napoli
+Rafael Leão,1999,Portugal,Winger,Easy,Sporting CP → Lille → AC Milan
+Enzo Fernández,2001,Argentina,Midfielder,Easy,River Plate → Benfica → Chelsea
+Moisés Caicedo,2001,Ecuador,Midfielder,Easy,Independiente del Valle → Brighton → Chelsea
+Declan Rice,1999,England,Midfielder,Easy,West Ham → Arsenal
+Reece James,1999,England,Defender,Medium,Chelsea
+Marcus Rashford,1997,England,Forward,Medium,Manchester United
+Trent Alexander-Arnold,1998,England,Defender,Medium,Liverpool
+Jack Grealish,1995,England,Winger,Medium,Aston Villa → Manchester City
+Martin Ødegaard,1998,Norway,Midfielder,Medium,Strømsgodset → Real Madrid → Arsenal
+Serge Gnabry,1995,Germany,Winger,Medium,Arsenal → West Brom → Bayern Munich
+Kingsley Coman,1996,France,Winger,Medium,Juventus → Bayern Munich
+Ousmane Dembélé,1997,France,Winger,Medium,Rennes → Borussia Dortmund → Barcelona → Paris SG
+Mike Maignan,1995,France,Goalkeeper,Medium,Paris SG → Lille → AC Milan
+Theo Hernández,1997,France,Defender,Medium,Atlético Madrid → Alavés → Real Madrid → AC Milan
+Antoine Griezmann,1991,France,Forward,Medium,Real Sociedad → Atlético Madrid → Barcelona → Atlético Madrid
+N'Golo Kanté,1991,France,Midfielder,Medium,Caen → Leicester City → Chelsea → Al Ittihad
+Paul Pogba,1993,France,Midfielder,Medium,Manchester United → Juventus → Manchester United → Juventus
+Olivier Giroud,1986,France,Striker,Medium,Arsenal → Chelsea → AC Milan
+Eden Hazard,1991,Belgium,Winger,Medium,Lille → Chelsea → Real Madrid
+Romelu Lukaku,1993,Belgium,Striker,Medium,Chelsea → Everton → Manchester United → Inter Milan → Chelsea → Roma
+Jadon Sancho,2000,England,Winger,Medium,Manchester City → Borussia Dortmund → Manchester United
+Kai Havertz,1999,Germany,Forward,Medium,Bayer Leverkusen → Chelsea → Arsenal
+Diogo Jota,1996,Portugal,Forward,Medium,Wolves → Liverpool
+Riyad Mahrez,1991,Algeria,Winger,Medium,Leicester City → Manchester City → Al Ahli
+Roberto Firmino,1991,Brazil,Forward,Medium,Hoffenheim → Liverpool → Al Ahli
+Ederson Moraes,1993,Brazil,Goalkeeper,Medium,Benfica → Manchester City
+Casemiro,1992,Brazil,Midfielder,Medium,São Paulo → Real Madrid → Manchester United
+Fabinho,1993,Brazil,Midfielder,Medium,Monaco → Liverpool → Al Ittihad
+Thiago Silva,1984,Brazil,Defender,Medium,AC Milan → Paris SG → Chelsea
+Gabriel Jesus,1997,Brazil,Striker,Medium,Palmeiras → Manchester City → Arsenal
+Richarlison,1997,Brazil,Forward,Medium,Watford → Everton → Tottenham
+Rodri,1996,Spain,Midfielder,Medium,Villarreal → Atlético Madrid → Manchester City
+Álvaro Morata,1992,Spain,Striker,Medium,Real Madrid → Juventus → Chelsea → Atlético Madrid → Juventus
+Dani Carvajal,1992,Spain,Defender,Medium,Bayer Leverkusen → Real Madrid
+Marco Asensio,1996,Spain,Winger,Medium,Mallorca → Real Madrid → Paris SG
+Mikel Oyarzabal,1997,Spain,Forward,Medium,Real Sociedad
+Unai Simón,1997,Spain,Goalkeeper,Medium,Athletic Bilbao
+Aymeric Laporte,1994,Spain,Defender,Medium,Athletic Bilbao → Manchester City → Al Nassr
+Koke,1992,Spain,Midfielder,Medium,Atlético Madrid
+Raheem Sterling,1994,England,Winger,Medium,Liverpool → Manchester City → Chelsea
+Jordan Henderson,1990,England,Midfielder,Medium,Liverpool → Al Ettifaq
+Kyle Walker,1990,England,Defender,Medium,Tottenham → Manchester City
+John Stones,1994,England,Defender,Medium,Everton → Manchester City
+Luke Shaw,1995,England,Defender,Medium,Southampton → Manchester United
+Emiliano Martínez,1992,Argentina,Goalkeeper,Medium,Arsenal → Aston Villa
+Cristian Romero,1998,Argentina,Defender,Medium,Atalanta → Tottenham
+Rodrigo De Paul,1994,Argentina,Midfielder,Medium,Udinese → Atlético Madrid
+Alexis Mac Allister,1998,Argentina,Midfielder,Medium,Brighton → Liverpool
+Nicolás Otamendi,1988,Argentina,Defender,Medium,Valencia → Manchester City → Benfica
+Ángel Di María,1988,Argentina,Winger,Medium,Real Madrid → Manchester United → Paris SG → Juventus
+Paulo Dybala,1993,Argentina,Forward,Medium,Palermo → Juventus → Roma
+Sergio Agüero,1988,Argentina,Striker,Medium,Atlético Madrid → Manchester City → Barcelona
+Sergio Ramos,1986,Spain,Defender,Medium,Sevilla → Real Madrid → Paris SG
+Gerard Piqué,1987,Spain,Defender,Medium,Manchester United → Zaragoza → Barcelona
+Andrés Iniesta,1984,Spain,Midfielder,Medium,Barcelona → Vissel Kobe
+Xavi Hernández,1980,Spain,Midfielder,Medium,Barcelona → Al Sadd
+Gianluigi Buffon,1978,Italy,Goalkeeper,Medium,Parma → Juventus → Paris SG → Parma
+Andrea Pirlo,1979,Italy,Midfielder,Medium,AC Milan → Juventus → New York City
+Francesco Totti,1976,Italy,Forward,Medium,Roma
+Alessandro Del Piero,1974,Italy,Forward,Medium,Juventus → Sydney FC
+Zlatan Ibrahimović,1981,Sweden,Striker,Medium,Ajax → Juventus → Inter → Barcelona → AC Milan → Paris SG → Manchester United → LA Galaxy → AC Milan
+Robin van Persie,1983,Netherlands,Striker,Medium,Feyenoord → Arsenal → Manchester United → Fenerbahçe
+Arjen Robben,1984,Netherlands,Winger,Medium,Chelsea → Real Madrid → Bayern Munich
+Wesley Sneijder,1984,Netherlands,Midfielder,Medium,Ajax → Real Madrid → Inter → Galatasaray
+Franck Ribéry,1983,France,Winger,Medium,Marseille → Bayern Munich → Fiorentina
+Didier Drogba,1978,Ivory Coast,Striker,Medium,Marseille → Chelsea → Shanghai → Galatasaray
+Samuel Eto'o,1981,Cameroon,Striker,Medium,Mallorca → Barcelona → Inter → Chelsea → Everton
+Yaya Touré,1983,Ivory Coast,Midfielder,Medium,Barcelona → Manchester City
+Steven Gerrard,1980,England,Midfielder,Medium,Liverpool → LA Galaxy
+Frank Lampard,1978,England,Midfielder,Medium,Chelsea → Manchester City → New York City
+Wayne Rooney,1985,England,Forward,Medium,Everton → Manchester United → Everton → DC United
+John Terry,1980,England,Defender,Medium,Chelsea → Aston Villa
+David Beckham,1975,England,Midfielder,Medium,Manchester United → Real Madrid → LA Galaxy → AC Milan → Paris SG
+Ashley Cole,1980,England,Defender,Medium,Arsenal → Chelsea → Roma → LA Galaxy
+Paul Scholes,1974,England,Midfielder,Medium,Manchester United
+Ryan Giggs,1973,Wales,Winger,Medium,Manchester United
+Thierry Henry,1977,France,Striker,Medium,Monaco → Juventus → Arsenal → Barcelona → New York Red Bulls
+Patrick Vieira,1976,France,Midfielder,Medium,Arsenal → Juventus → Inter → Manchester City
+Luis Suárez,1987,Uruguay,Striker,Medium,Ajax → Liverpool → Barcelona → Atlético Madrid → Grêmio → Inter Miami
+Edinson Cavani,1987,Uruguay,Striker,Medium,Napoli → Paris SG → Manchester United → Valencia → Boca Juniors
+Diego Godín,1986,Uruguay,Defender,Medium,Villarreal → Atlético Madrid → Inter → Cagliari
+Fernando Muslera,1986,Uruguay,Goalkeeper,Medium,Lazio → Galatasaray
+James Rodríguez,1991,Colombia,Midfielder,Medium,Porto → Monaco → Real Madrid → Bayern Munich → Everton → Al Rayyan
+Radamel Falcao,1986,Colombia,Striker,Medium,Porto → Atlético Madrid → Monaco → Chelsea → Galatasaray
+Juan Cuadrado,1988,Colombia,Winger,Medium,Fiorentina → Juventus → Inter
+Hugo Lloris,1986,France,Goalkeeper,Medium,Lyon → Tottenham → LAFC
+Raphaël Varane,1993,France,Defender,Medium,Lens → Real Madrid → Manchester United
+Blaise Matuidi,1987,France,Midfielder,Medium,Saint-Étienne → Paris SG → Juventus → Inter Miami
+Thomas Müller,1989,Germany,Forward,Easy,Bayern Munich
+Manuel Neuer,1986,Germany,Goalkeeper,Easy,Schalke → Bayern Munich
+Mats Hummels,1988,Germany,Defender,Medium,Borussia Dortmund → Bayern Munich → Borussia Dortmund
+Marco Reus,1989,Germany,Forward,Medium,Borussia Dortmund
+Mario Götze,1992,Germany,Midfielder,Medium,Borussia Dortmund → Bayern Munich → Dortmund → PSV → Frankfurt
+Mesut Özil,1988,Germany,Midfielder,Medium,Schalke → Werder Bremen → Real Madrid → Arsenal → Fenerbahçe
+Bastian Schweinsteiger,1984,Germany,Midfielder,Medium,Bayern Munich → Manchester United → Chicago Fire
+Philipp Lahm,1983,Germany,Defender,Medium,Bayern Munich
+Giorgio Chiellini,1984,Italy,Defender,Medium,Juventus → LAFC
+Leonardo Bonucci,1987,Italy,Defender,Medium,Juventus → AC Milan → Juventus → Union Berlin
+Gianluigi Donnarumma,1999,Italy,Goalkeeper,Medium,AC Milan → Paris SG
+Nicolò Barella,1997,Italy,Midfielder,Medium,Cagliari → Inter Milan
+Federico Chiesa,1997,Italy,Winger,Medium,Fiorentina → Juventus
+Ciro Immobile,1990,Italy,Striker,Medium,Juventus → Borussia Dortmund → Sevilla → Torino → Lazio
+Lorenzo Insigne,1991,Italy,Forward,Medium,Napoli → Toronto FC
+Marco Verratti,1992,Italy,Midfielder,Medium,Pescara → Paris SG → Al Arabi
+Jorginho,1991,Italy,Midfielder,Medium,Napoli → Chelsea → Arsenal
+Sandro Tonali,2000,Italy,Midfielder,Medium,Brescia → AC Milan → Newcastle
+Giacomo Raspadori,2000,Italy,Forward,Medium,Sassuolo → Napoli
+Wilfried Zaha,1992,Ivory Coast,Winger,Medium,Crystal Palace → Manchester United → Crystal Palace → Galatasaray
+Nicolas Pépé,1995,Ivory Coast,Winger,Medium,Lille → Arsenal → Nice → Trabzonspor
+Eric Bailly,1994,Ivory Coast,Defender,Medium,Villarreal → Manchester United → Beşiktaş
+Thomas Partey,1993,Ghana,Midfielder,Medium,Atlético Madrid → Arsenal
+Ronaldinho,1980,Brazil,Forward,Easy,Paris SG → Barcelona → AC Milan
+Ronaldo Nazário,1976,Brazil,Striker,Medium,PSV → Barcelona → Inter → Real Madrid → AC Milan
+Kaká,1982,Brazil,Midfielder,Medium,AC Milan → Real Madrid → Orlando City
+Marcelo,1988,Brazil,Defender,Medium,Fluminense → Real Madrid → Olympiacos
+Dani Alves,1983,Brazil,Defender,Medium,Sevilla → Barcelona → Juventus → Paris SG
+David Luiz,1987,Brazil,Defender,Medium,Benfica → Chelsea → Paris SG → Chelsea → Arsenal
+Willian,1988,Brazil,Winger,Medium,Shakhtar Donetsk → Chelsea → Arsenal → Corinthians → Fulham
+Cesc Fàbregas,1987,Spain,Midfielder,Medium,Arsenal → Barcelona → Chelsea → Monaco
+David Silva,1986,Spain,Midfielder,Medium,Valencia → Manchester City → Real Sociedad
+Santi Cazorla,1984,Spain,Midfielder,Medium,Villarreal → Arsenal → Villarreal
+Juan Mata,1988,Spain,Midfielder,Medium,Valencia → Chelsea → Manchester United → Galatasaray
+Fernando Torres,1984,Spain,Striker,Medium,Atlético Madrid → Liverpool → Chelsea → AC Milan → Atlético Madrid
+Diego Costa,1988,Spain,Striker,Medium,Atlético Madrid → Chelsea → Atlético Madrid → Wolves
+Ivan Rakitić,1988,Croatia,Midfielder,Medium,Schalke → Sevilla → Barcelona → Sevilla
+Mario Mandžukić,1986,Croatia,Striker,Medium,Wolfsburg → Bayern Munich → Atlético Madrid → Juventus → AC Milan
+Ivan Perišić,1989,Croatia,Winger,Medium,Borussia Dortmund → Wolfsburg → Inter → Bayern Munich → Inter → Tottenham
+Dejan Lovren,1989,Croatia,Defender,Medium,Lyon → Southampton → Liverpool → Zenit
+Mateo Kovačić,1994,Croatia,Midfielder,Medium,Inter → Real Madrid → Chelsea → Manchester City
+Andrej Kramarić,1991,Croatia,Striker,Medium,Leicester City → Hoffenheim
+Christian Eriksen,1992,Denmark,Midfielder,Medium,Ajax → Tottenham → Inter → Brentford → Manchester United
+Kasper Schmeichel,1986,Denmark,Goalkeeper,Medium,Leicester → Nice → Anderlecht
+Simon Kjær,1989,Denmark,Defender,Medium,Wolfsburg → Roma → Lille → Fenerbahçe → Sevilla → AC Milan
+Pierre-Emile Højbjerg,1995,Denmark,Midfielder,Medium,Bayern Munich → Schalke → Southampton → Tottenham
+João Félix,1999,Portugal,Forward,Medium,Benfica → Atlético Madrid → Chelsea → Barcelona
+João Cancelo,1994,Portugal,Defender,Medium,Benfica → Valencia → Inter → Juventus → Manchester City → Bayern Munich → Barcelona
+Nuno Mendes,2002,Portugal,Defender,Medium,Sporting CP → Paris SG
+Gonçalo Ramos,2001,Portugal,Striker,Medium,Benfica → Paris SG
+António Silva,2003,Portugal,Defender,Medium,Benfica
+Vitinha,2000,Portugal,Midfielder,Medium,Porto → Wolves → Porto → Paris SG
+Matheus Nunes,1998,Portugal,Midfielder,Medium,Sporting CP → Wolves → Manchester City
+Rui Patrício,1988,Portugal,Goalkeeper,Medium,Sporting CP → Wolves → Roma
+Pepe,1983,Portugal,Defender,Medium,Porto → Real Madrid → Beşiktaş → Porto
+Alexis Sánchez,1988,Chile,Forward,Medium,Udinese → Barcelona → Arsenal → Manchester United → Inter → Marseille
+Arturo Vidal,1987,Chile,Midfielder,Medium,Bayer Leverkusen → Juventus → Bayern Munich → Barcelona → Inter
+Claudio Bravo,1983,Chile,Goalkeeper,Medium,Real Sociedad → Barcelona → Manchester City → Real Betis
+Gary Medel,1987,Chile,Defender,Medium,Sevilla → Cardiff City → Inter → Beşiktaş → Bologna
+Javier Hernández,1988,Mexico,Striker,Medium,Manchester United → Real Madrid → Bayer Leverkusen → West Ham → LA Galaxy → Sevilla
+Hirving Lozano,1995,Mexico,Winger,Medium,Pachuca → PSV → Napoli → PSV
+Raúl Jiménez,1991,Mexico,Striker,Medium,Atlético Madrid → Benfica → Wolves → Fulham
+Guillermo Ochoa,1985,Mexico,Goalkeeper,Medium,Ajaccio → Málaga → Standard Liège → América
+Andrés Guardado,1986,Mexico,Midfielder,Medium,Deportivo La Coruña → Valencia → Bayer Leverkusen → PSV → Real Betis
+Carlos Vela,1989,Mexico,Forward,Medium,Arsenal → Real Sociedad → Los Angeles FC
+Héctor Herrera,1990,Mexico,Midfielder,Medium,Porto → Atlético Madrid → Houston Dynamo
+Santiago Giménez,2001,Mexico,Striker,Medium,Cruz Azul → Feyenoord
+Diego Lainez,2000,Mexico,Winger,Medium,América → Real Betis → Braga → Tigres
+Orbelín Pineda,1996,Mexico,Midfielder,Medium,Querétaro → Cruz Azul → Celta Vigo → AEK Athens
+Johan Vásquez,1998,Mexico,Defender,Medium,Monterrey → Genoa → Cremonese
+César Montes,1997,Mexico,Defender,Medium,Monterrey → Espanyol → Almería
+Gerardo Arteaga,1998,Mexico,Defender,Medium,Santos Laguna → Genk → Monterrey
+Luis Chávez,1996,Mexico,Midfielder,Medium,Pachuca → Dinamo Moscow
+Erick Gutiérrez,1995,Mexico,Midfielder,Medium,Pachuca → PSV
+Jesús Corona,1993,Mexico,Winger,Medium,Monterrey → Twente → Porto → Sevilla
+Edson Álvarez,1997,Mexico,Midfielder,Medium,América → Ajax → West Ham United
+Memphis Depay,1994,Netherlands,Forward,Medium,Manchester United → Lyon → Barcelona → Atlético Madrid
+Donyell Malen,1999,Netherlands,Forward,Medium,PSV → Borussia Dortmund
+Steven Bergwijn,1997,Netherlands,Winger,Medium,Ajax → PSV → Tottenham
+Teun Koopmeiners,1998,Netherlands,Midfielder,Medium,AZ Alkmaar → Atalanta
+David Alaba,1992,Austria,Defender,Medium,Bayern Munich → Real Madrid
+Marcelo Brozović,1992,Croatia,Midfielder,Medium,Dinamo Zagreb → Inter → Al Nassr
+Mario Pašalić,1995,Croatia,Midfielder,Medium,Chelsea → Atalanta
+Mikkel Damsgaard,2000,Denmark,Winger,Medium,Nordsjælland → Sampdoria → Brentford
+Ricardo Quaresma,1983,Portugal,Winger,Medium,Sporting CP → Barcelona → Porto → Inter → Chelsea
+Luis Figo,1972,Portugal,Winger,Medium,Sporting CP → Barcelona → Real Madrid → Inter
+Raúl González,1977,Spain,Striker,Medium,Real Madrid → Schalke
+Charles Aránguiz,1989,Chile,Midfielder,Medium,Bayer Leverkusen → Internacional
+Ben Brereton Díaz,1999,Chile,Striker,Medium,Nottingham Forest → Blackburn → Villarreal
+Miguel Layún,1988,Mexico,Defender,Medium,Watford → Porto → Sevilla → Villarreal
+Rogelio Funes Mori,1991,Mexico,Striker,Medium,Benfica → River Plate → Monterrey
+Alan Pulido,1991,Mexico,Striker,Medium,Tigres → Olympiacos → Sporting Kansas City
+Henry Martín,1992,Mexico,Striker,Medium,Tijuana → América
+Uriel Antuna,1997,Mexico,Winger,Medium,Manchester City → LA Galaxy → Cruz Azul
+Roberto Alvarado,1998,Mexico,Winger,Medium,Pachuca → Cruz Azul
+Jonathan dos Santos,1990,Mexico,Midfielder,Medium,Barcelona → Villarreal → LA Galaxy → América
+Giovani dos Santos,1989,Mexico,Winger,Medium,Barcelona → Tottenham → Villarreal → LA Galaxy
+Rafael Márquez,1979,Mexico,Defender,Medium,Monaco → Barcelona → New York Red Bulls
+Cuauhtémoc Blanco,1973,Mexico,Forward,Medium,América → Valladolid → Chicago Fire
+Jared Borgetti,1973,Mexico,Striker,Medium,Santos Laguna → Bolton → Cruz Azul
+Pavel Pardo,1976,Mexico,Midfielder,Medium,América → Stuttgart → América
+Carlos Salcido,1980,Mexico,Defender,Medium,Guadalajara → PSV → Fulham → Tigres
+Hugo Sánchez,1958,Mexico,Striker,Medium,Real Madrid → Atlético Madrid → América
+Carlos Hermosillo,1964,Mexico,Striker,Medium,Cruz Azul → LA Galaxy
+Luis Hernández,1968,Mexico,Striker,Medium,Necaxa → Boca Juniors → LA Galaxy
+Frenkie de Jong,1997,Netherlands,Midfielder,Medium,Ajax → Barcelona
+Matthijs de Ligt,1999,Netherlands,Defender,Medium,Ajax → Juventus → Bayern Munich
+Cody Gakpo,1999,Netherlands,Winger,Medium,PSV → Liverpool
+Ferran Torres,2000,Spain,Winger,Easy,Valencia → Manchester City → Barcelona
+Federico Valverde,1998,Uruguay,Midfielder,Easy,Peñarol → Real Madrid
+Aurélien Tchouaméni,2000,France,Midfielder,Easy,Bordeaux → AS Monaco → Real Madrid
+Jonathan David,2000,Canada,Striker,Medium,Gent → Lille
+Takefusa Kubo,2001,Japan,Winger,Medium,FC Tokyo → Real Madrid → Real Sociedad
+Nico Williams,2002,Spain,Winger,Medium,Athletic Bilbao
+Brahim Díaz,1999,Spain,Attacking Midfielder,Medium,Manchester City → AC Milan → Real Madrid
+Eduardo Camavinga,2002,France,Midfielder,Medium,Rennes → Real Madrid
+Cody Gakpo,1999,Netherlands,Winger,Medium,PSV → Liverpool
+Josko Gvardiol,2002,Croatia,Defender,Medium,RB Leipzig → Manchester City
+Alexander Isak,1999,Sweden,Striker,Medium,AIK → Borussia Dortmund → Real Sociedad → Newcastle United
+Dominik Szoboszlai,2000,Hungary,Midfielder,Medium,RB Salzburg → RB Leipzig → Liverpool
+Mason Mount,1999,England,Midfielder,Medium,Chelsea → Manchester United
+Matthijs de Ligt,1999,Netherlands,Defender,Medium,Ajax → Juventus → Bayern Munich
+Ansu Fati,2002,Spain,Forward,Medium,Barcelona → Brighton
+Gavi,2004,Spain,Midfielder,Easy,Barcelona
+Yamal Lamine,2007,Spain,Winger,Easy,Barcelona
+Timo Werner,1996,Germany,Forward,Medium,RB Leipzig → Chelsea → RB Leipzig
+Sergej Milinković-Savić,1995,Serbia,Midfielder,Medium,Genk → Lazio → Al Hilal
+Dusan Vlahović,2000,Serbia,Striker,Medium,Fiorentina → Juventus
+Nicolò Zaniolo,1999,Italy,Midfielder,Medium,Roma → Galatasaray → Aston Villa
+Hakan Çalhanoğlu,1994,Turkey,Midfielder,Medium,Hamburg → Leverkusen → AC Milan → Inter
+Milan Škriniar,1995,Slovakia,Defender,Medium,Sampdoria → Inter → Paris SG
+Wojciech Szczęsny,1990,Poland,Goalkeeper,Medium,Arsenal → Roma → Juventus
+Łukasz Piszczek,1985,Poland,Defender,Medium,Borussia Dortmund
+Grzegorz Krychowiak,1990,Poland,Midfielder,Medium,Sevilla → Paris SG → West Brom
+Arkadiusz Milik,1994,Poland,Striker,Medium,Ajax → Napoli → Marseille → Juventus
+Piotr Zieliński,1994,Poland,Midfielder,Medium,Udinese → Napoli
+Jan Oblak,1993,Slovenia,Goalkeeper,Medium,Benfica → Atlético Madrid
+José María Giménez,1995,Uruguay,Defender,Medium,Danubio → Atlético Madrid
+Diego Simeone,1970,Argentina,Midfielder,Medium,Sevilla → Atlético Madrid → Inter → Lazio
+Juan Román Riquelme,1978,Argentina,Midfielder,Medium,Boca Juniors → Barcelona → Villarreal → Boca Juniors
+Gabriel Batistuta,1969,Argentina,Striker,Medium,Fiorentina → Roma → Inter
+Juan Sebastián Verón,1975,Argentina,Midfielder,Medium,Lazio → Manchester United → Chelsea → Inter
+Esteban Cambiasso,1980,Argentina,Midfielder,Medium,Real Madrid → Inter → Leicester City
+Javier Zanetti,1973,Argentina,Defender,Medium,Inter
+Hernán Crespo,1975,Argentina,Striker,Medium,Parma → Lazio → Inter → Chelsea → AC Milan
+Claudio Caniggia,1967,Argentina,Forward,Medium,Roma → Benfica → Boca Juniors
+Ariel Ortega,1974,Argentina,Midfielder,Medium,Valencia → Sampdoria → River Plate
+Carlos Tevez,1984,Argentina,Forward,Medium,Boca Juniors → Corinthians → West Ham → Manchester United → Manchester City → Juventus → Shanghai Shenhua
+Javier Pastore,1989,Argentina,Midfielder,Medium,Palermo → Paris SG → Roma
+Ezequiel Lavezzi,1985,Argentina,Forward,Medium,Napoli → Paris SG → Hebei China Fortune
+Gonzalo Higuaín,1987,Argentina,Striker,Medium,Real Madrid → Napoli → Juventus → AC Milan → Chelsea
+Ángel Di María,1988,Argentina,Winger,Medium,Real Madrid → Manchester United → Paris SG → Juventus
+Éver Banega,1988,Argentina,Midfielder,Medium,Sevilla → Inter → Sevilla
+Sergio Agüero,1988,Argentina,Striker,Medium,Atlético Madrid → Manchester City → Barcelona
+Lionel Scaloni,1978,Argentina,Defender,Medium,Deportivo La Coruña → West Ham → Lazio
+Roberto Ayala,1973,Argentina,Defender,Medium,Napoli → Valencia → Villarreal
+Pablo Aimar,1979,Argentina,Midfielder,Medium,Valencia → Zaragoza → Benfica
+Claudio Pizarro,1978,Peru,Striker,Medium,Werder Bremen → Bayern Munich → Chelsea → Werder Bremen
+Jefferson Farfán,1984,Peru,Winger,Medium,PSV → Schalke 04 → Lokomotiv Moscow
+Paolo Guerrero,1984,Peru,Striker,Medium,Bayern Munich → Hamburg → Corinthians → Flamengo
+Yoshimar Yotún,1990,Peru,Midfielder,Medium,Malmö → Orlando City → Cruz Azul
+Christian Cueva,1991,Peru,Midfielder,Medium,São Paulo → Krasnodar → Al Fateh
+André Carrillo,1991,Peru,Winger,Medium,Sporting CP → Benfica → Watford → Al Hilal
+Pedro Gallese,1990,Peru,Goalkeeper,Medium,Veracruz → Orlando City
+Raúl Ruidíaz,1990,Peru,Striker,Medium,Universitario → Morelia → Seattle Sounders
+Edison Flores,1994,Peru,Winger,Medium,Universitario → Aalborg → DC United
+Andy Polo,1994,Peru,Winger,Medium,Universitario → Portland Timbers
+Alexander Callens,1992,Peru,Defender,Medium,Numancia → New York City FC → Girona
+Luis Advíncula,1990,Peru,Defender,Medium,Bursaspor → Hoffenheim → Boca Juniors → Rayo Vallecano
+Anderson Santamaría,1992,Peru,Defender,Medium,Puebla → Atlas
+Miguel Trauco,1992,Peru,Defender,Medium,Flamengo → Saint-Étienne
+Renato Tapia,1995,Peru,Midfielder,Medium,Feyenoord → Willem II → Celta Vigo
+Sergio Peña,1995,Peru,Midfielder,Medium,Granada → Emmen → Malmö
+Irven Ávila,1990,Peru,Striker,Medium,Sporting Cristal → Atlas
+Alex Valera,1996,Peru,Striker,Medium,Universitario → Al Fateh
+Brayan Hurtado,1995,Bolivia,Striker,Medium,Bolívar → Girona
+Marcelo Moreno,1987,Bolivia,Striker,Medium,Shakhtar Donetsk → Werder Bremen → Wigan → Grêmio
+Juan Carlos Arce,1985,Bolivia,Winger,Medium,Sevilla → Aris → Bolívar
+Ronald Raldes,1981,Bolivia,Defender,Medium,River Plate → Colón → Cruzeiro
+José Luis Chávez,1986,Bolivia,Midfielder,Medium,Oriente Petrolero → Celta Vigo → Oriente Petrolero
+Carlos Lampe,1987,Bolivia,Goalkeeper,Medium,Sport Boys → Huachipato → Bolívar
+Leonel Justiniano,1992,Bolivia,Midfielder,Medium,Bolívar → Sport Boys
+Henry Vaca,1998,Bolivia,Winger,Medium,Oriente Petrolero → Club Tijuana
+Jaime Arrascaita,1993,Bolivia,Midfielder,Medium,Bolívar → Al Shabab
+Rodrigo Ramallo,1990,Bolivia,Forward,Medium,Bolívar → The Strongest
+Erwin Saavedra,1996,Bolivia,Midfielder,Medium,Bolívar → Beerschot
+Fernando Saucedo,1990,Bolivia,Midfielder,Medium,Universitario de Sucre → Bolívar
+Jhasmani Campos,1988,Bolivia,Midfielder,Medium,Al Shabab → Kuwait SC
+Omar Albornoz,1992,Bolivia,Defender,Medium,Bolívar → Oriente Petrolero
+Luis Haquín,1997,Bolivia,Defender,Medium,Melipilla → Talleres
+Diego Bejarano,1991,Bolivia,Defender,Medium,The Strongest → Bolívar
+Adrián Jusino,1992,Bolivia,Defender,Medium,The Strongest → Sheriff Tiraspol
+Rudy Cardozo,1990,Bolivia,Midfielder,Medium,Bolívar → Guabirá
+Gilbert Álvarez,1992,Bolivia,Forward,Medium,Blooming → Royal Pari
+Bruno Miranda,1998,Bolivia,Forward,Medium,Universitario de Sucre → D.C. United
+Marc Enoumba,1992,Cameroon,Defender,Medium,Astra Giurgiu → Alanyaspor
+Olivier Ntcham,1996,France,Midfielder,Medium,Manchester City → Celtic → Marseille
+Maxime Gonalons,1989,France,Midfielder,Medium,Lyon → Roma → Granada
+Bafétimbi Gomis,1985,France,Striker,Medium,Saint-Étienne → Lyon → Swansea → Marseille → Al Hilal
+Jimmy Briand,1985,France,Forward,Medium,Rennes → Lyon → Guingamp → Bordeaux
+Mathieu Valbuena,1984,France,Midfielder,Medium,Marseille → Dynamo Moscow → Lyon → Fenerbahçe
+Steve Mandanda,1985,France,Goalkeeper,Medium,Marseille → Crystal Palace → Marseille
+Adil Rami,1985,France,Defender,Medium,Lille → Valencia → AC Milan → Sevilla → Fenerbahçe
+Bacary Sagna,1983,France,Defender,Medium,Arsenal → Manchester City → Benevento
+Patrice Evra,1981,France,Defender,Medium,Monaco → Manchester United → Juventus → Marseille
+Benoît Trémoulinas,1985,France,Defender,Medium,Bordeaux → Sevilla → Dynamo Kyiv
+Jérémy Toulalan,1983,France,Midfielder,Medium,Lyon → Málaga → Monaco → Bordeaux
+Yoann Gourcuff,1986,France,Midfielder,Medium,Rennes → AC Milan → Bordeaux → Lyon
+Djibril Cissé,1981,France,Striker,Medium,Auxerre → Liverpool → Marseille → Panathinaikos
+Sidney Govou,1979,France,Forward,Medium,Lyon → Panathinaikos → Évian
+Florent Malouda,1980,France,Winger,Medium,Lyon → Chelsea → Metz
+Willy Sagnol,1977,France,Defender,Medium,Monaco → Bayern Munich
+Eric Abidal,1979,France,Defender,Medium,Lyon → Barcelona → Monaco
+Lilian Thuram,1972,France,Defender,Medium,Parma → Juventus → Barcelona
+Marcel Desailly,1968,France,Defender,Medium,Marseille → AC Milan → Chelsea
+Didier Deschamps,1968,France,Midfielder,Medium,Marseille → Juventus → Chelsea
+Zinedine Zidane,1972,France,Midfielder,Medium,Juventus → Real Madrid
+Youri Djorkaeff,1968,France,Forward,Medium,Inter → Kaiserslautern → Bolton
+Christian Karembeu,1970,France,Midfielder,Medium,Sampdoria → Real Madrid → Middlesbrough
+Laurent Blanc,1965,France,Defender,Medium,Auxerre → Napoli → Barcelona → Marseille → Inter → Manchester United
+Jean-Pierre Papin,1963,France,Striker,Medium,Marseille → AC Milan → Bayern Munich
+Michel Platini,1955,France,Midfielder,Medium,Saint-Étienne → Juventus
+Just Fontaine,1933,France,Striker,Medium,Reims
+Raymond Kopa,1931,France,Forward,Medium,Reims → Real Madrid → Reims
+Alain Giresse,1952,France,Midfielder,Medium,Bordeaux → Marseille
+Jean Tigana,1955,France,Midfielder,Medium,Bordeaux → Marseille
+Luis Fernández,1959,France,Midfielder,Medium,Paris SG → Cannes
+Amara Simba,1961,France,Striker,Medium,Monaco → Paris SG → Lens
+Basile Boli,1967,France,Defender,Medium,Auxerre → Marseille → Rangers
+Frank Leboeuf,1968,France,Defender,Medium,Strasbourg → Chelsea → Marseille
+Vincent Candela,1973,France,Defender,Medium,Roma → Bolton
+Christophe Dugarry,1972,France,Forward,Medium,Bordeaux → AC Milan → Barcelona → Marseille
+Robert Pirès,1973,France,Midfielder,Medium,Metz → Marseille → Arsenal → Villarreal
+Sylvain Wiltord,1974,France,Forward,Medium,Bordeaux → Arsenal → Lyon → Marseille
+David Trezeguet,1977,France,Striker,Medium,Monaco → Juventus → Hércules → River Plate
+Thierry Henry,1977,France,Striker,Medium,Monaco → Juventus → Arsenal → Barcelona → New York Red Bulls
