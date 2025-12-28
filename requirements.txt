@@ -1,8 +1,9 @@
+--index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+
 python-telegram-bot>=21.0
 pandas
 numpy
 scikit-learn
-pandas
 groq
-sentence-transformers==2.6.1
-
+sentence-transformers
